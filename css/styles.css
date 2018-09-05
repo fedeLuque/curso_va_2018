@@ -1,0 +1,319 @@
+
+#padre {
+	background-image: url(https://templated.co/items/demos/retrospect/images/banner.jpg);
+	width: 100%;
+	height: 100vh;
+	background-attachment: fixed;
+
+}
+
+#hijoTransp {
+	width: 100%;
+	height: 100vh;
+	/*background-color: gray;*/ 	
+		
+}
+
+#hijoGris {
+	width: 100%;
+	height: 1000px;
+	background-color: #eee;
+}
+
+
+header {
+	color: #fff;
+}
+
+h1 {	
+	display: inline-block;
+	/*background-color: gray;*/
+	
+}
+
+body {
+	font-family: sans-serif;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3, p {
+	font-size: 1.5em;
+	font-weight: normal;
+}
+article div h2 {
+	font-size: 1.5em;
+}
+
+article div p {
+	font-size: 1em;
+	line-height: 1.8;
+	font-weight: 100;
+}
+header h2 {
+	color: #000;
+}
+header p {
+	color: #000;
+}
+.center {
+	color: #fff;
+	text-align: center;
+	position: relative;
+	top: 15vh;
+
+}
+
+a {
+	float: right;
+	margin: 20px;
+	text-decoration: none;
+	font-family: initial;
+	color: inherit;
+
+}
+
+.btn1 {
+	background-color: #63c1ae;
+	border: none;
+	color: #fff;
+	padding: 14px 40px;
+	font-size: 16px;
+	border-radius: 50px;
+}
+.btn2 {
+	background-color: #fff;
+	border: 2px solid #63c1ae ;
+	color: #63c1ae;
+	padding: 14px 40px;
+	border-radius: 50px;
+	font-size: 16px;
+}
+
+.btn3 {
+	background-color: #fff;
+	border-color: #63c1ae;
+	color: #63c1ae;
+	padding: 14px 40px;
+	font-size: 16px;
+	border-radius: 50px;
+}
+
+/*button:hover {
+	background-color: #fff;
+	border: 2px solid #63c1ae ;
+	color: #63c1ae;
+}*/
+
+.art1 {
+	position: relative;
+	top: 100px;
+	background-color: #fff;
+	width: 80vw;
+	left: 100px;
+	height: 300px;
+
+}
+
+.contenidoTextoArt1 {
+	/*background-color: gray;*/
+	display: inline-block;
+	position: absolute;
+	width: 530px;
+	margin: 20px 10px;
+		
+}
+
+.art2 {
+	position: relative;
+	top: 200px;
+	background-color: #fff;
+	width: 80vw;
+	left: 100px;
+	height: 300px;
+
+}
+
+.contenidoTextoArt2 {
+	/*background-color: gray;*/
+	display: inline-block;
+	position: absolute;
+	width: 530px;
+	margin: 20px 10px;
+}
+/*div p {
+	width: 400px;
+
+}*/
+
+.imgArt1 {
+	width: 40vw;
+	height: 300px;
+}
+
+.imgArt2 {
+	width: 40vw;
+	height: 300px;
+	display:inline-block;
+	position: relative;
+	left: 40vw;
+	
+}
+
+#hijoBlanco {
+	width: 100%;
+	height: 550px;
+	background-color: #fff;
+	text-align: center; 	
+}
+
+.foto {
+	width: 250px;
+	height: 150px;
+	float: left;
+}
+
+#album {
+	position: absolute;
+	margin: 0 10vw;	
+}
+
+#contenedorBtn3 {
+	width: 100%;
+	position: relative;
+	top: 350px;
+}
+
+#otroHijo {
+	background-image: url(https://templated.co/items/demos/retrospect/images/pic11.jpg);
+	background-attachment: fixed;
+	height: 80vh;
+}
+
+#hijoLejano {
+	background-color: #1e2832;
+	color: #fff;
+	height: 130vh;
+	position: relative;
+	top: -30px;
+}
+
+.btn4 {
+	background-color: transparent;
+	border-color: #fff;
+	border: 2px solid;
+	color: #fff;
+	padding: 16px 40px;
+	font-size: 16px;
+	border-radius: 50px;
+	position: relative;
+
+}
+
+.cajaBtn4 {
+	color: #fff;
+	text-align: center;
+	position: relative;
+	top: 25vh;
+}
+
+#name {
+	background-color: rgb(41, 51, 60);
+	width: 30vw;
+	height: 60px;
+	position: relative;
+	top: 30px;
+	left: 250px;
+	display: inline-block;
+}
+
+#email {
+	background-color: rgb(41, 51, 60);
+	width: 29vw;
+	height: 60px;
+	position: relative;
+	top: 20px;
+	left: 260px;
+	display: inline-block;
+
+}
+
+#message {
+	background-color: rgb(41, 51, 60);
+	width: 60vw;
+	height: 200px;
+	position: relative;
+	top: 40px;
+	left: 250px;
+}
+
+#form {
+	
+	position: relative;
+	top: 150px;
+	height: 60vh;
+}
+
+#btnFinales {
+	position: relative;
+	top: 150px;
+	text-align: center;
+	height: 50px;
+	
+}
+
+footer {
+	background-color: #1E2832;
+	position: relative;
+	top: 2870px;
+
+}
+
+h6 {
+	display: inline-block;
+	margin: 0 5px;
+}
+#redesSociales {
+	text-align: center;
+	border-top: 1px solid rgba(255, 255, 255, 0.1);
+	height: 150px;
+	position: relative;
+	top: 10px;
+}
+#footer {
+	width: 60vw;
+	position: relative;
+	left: 250px;
+	height: 300px;
+}
+.logos {
+	margin: 0 12px;
+	margin-top: 120px;
+}
+
+#firmas {
+	text-align: center;
+	color: #a5a9ad;
+	position: relative;
+	top: 20px;
+}
+
+nav {
+	display: list-item;
+	background-color: #000;
+	width: 20vw;
+	height: 100vh;
+	position: relative;
+	top: -912px;
+	float: right;
+	visibility:hidden;
+	color: #fff;
+}
+
+header a:active {
+	background-color: blue;
+	#nav.visibility: visible;
+
+}
